@@ -4,7 +4,7 @@ An evil bug bot created by Bots Official
 
 <h1 align="center">SHIELD H E R O B U G S<br></h1>
 <p align="center">
-<img src="https://th.bing.com/th/id/OIP.WzoDCICKCgh0i4CstySWZAAAAA?w=330&h=181&c=7&r=0&o=5&pid=1.7"/>
+<img src="https://th.bing.com/th/id/OIP.WzoDCICKCgh0i4CstySWZAAAAA?w=330&h=181&c=7&r=0&o=5&pid=1.7" height="500" , width="500"/>
 </p>
 
 <p align="center">
