@@ -50,9 +50,9 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
 
 ## `Generate Pair Code For Session`
 
-[`Hero Pairing Using Render`](https://spider-classic-pairing.onrender.com)
+[`Hero Pairing Using Render`](https://bots-official-creds.onrender.com)
 
-[`Classic Pairing using Replit`](https://replit.com/@pesguru02/Classic-Pairing?s=app)
+[`Classic Pairing using Replit`](https://replit.com)
 
 [`HOW TO DEPLOY ON HEROKU VIDEO TUTORIAL`](https://youtu.be/b5gpcwPvtgk?si=Ybg9m7gyDjh9gEwn)
 
