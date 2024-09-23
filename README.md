@@ -4,11 +4,11 @@ An evil bug bot created by Bots Official
 
 <h1 align="center">SHIELD H E R O B U G S<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/a2e5d1851171e21e7ba82.jpg"/>
+<img src="https://th.bing.com/th/id/OIP.WzoDCICKCgh0i4CstySWZAAAAA?w=330&h=181&c=7&r=0&o=5&pid=1.7"/>
 </p>
 
 <p align="center">
-S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/BOTS-OFFICIAL" target="_blank">Sam</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/BOTS-OFFICIAL" target="_blank">BOTS-OFFICIAL</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 
