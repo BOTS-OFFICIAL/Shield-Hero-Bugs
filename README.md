@@ -34,8 +34,8 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
 ## ```Connect With Me```
 <p align="center">
 
-<a href="https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V"><img src="https://img.shields.io/badge/WhatsApp Channel ?style=for-the-badge&logo=whatsapp&logoColor=white&link= "https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V" /><br>
-
+<a href="https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V"><img src="https://img.shields.io/badge/WhatsApp Channel ?style=for-the-badge&logo=whatsapp&logoColor=green&link="https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V" /><br>
+</p>
 
 ## ```Bot Support Group Chats```
 
