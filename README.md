@@ -34,13 +34,13 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
 ## ```Connect With Me```
 <p align="center">
 
-<a href="https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk"><img src="https://img.shields.io/badge/WhatsApp ?style=for-the-badge&logo=whatsapp&logoColor=white&link=httpshttps://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk" /><br>
+<a href="https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V"><img src="https://img.shields.io/badge/WhatsApp Channel ?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V" /><br>
 
 
 ## ```Bot Support Group Chats```
 
-- [`GC`](https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV)
-- [`Channel`](https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e)
+- [`Group Chat`](https://chat.whatsapp.com/KhFlAaa7LaG5st8gqJol3Q)
+- [`Channel`](https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V)
 
 
 
@@ -52,7 +52,7 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
 
 [`Hero Pairing Using Render`](https://bots-official-creds.onrender.com)
 
-[`Classic Pairing using Replit`](https://replit.com)
+[`Shield Pairing using Replit`](https://replit.com)
 
 [`HOW TO DEPLOY ON HEROKU VIDEO TUTORIAL`](https://youtu.be/b5gpcwPvtgk?si=Ybg9m7gyDjh9gEwn)
 
@@ -60,7 +60,7 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
 
 [`HOW TO RESTART WHEN THE BOT GOES OFF`](https://youtube.com/shorts/o0uLn17pRRs?si=i4VVlhSZLoFdk94u)
 
-# Instalasi
+# Installments
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
