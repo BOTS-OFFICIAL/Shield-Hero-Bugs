@@ -2,7 +2,7 @@
 <h1 align="centre", colour="red">AN EVIL WHATSAPP BUG BOT BY BOTS OFFICIAL<br><h1>
  
 
-<h1 align="center">SHIELD H E R O B U G S<br></h1>
+<h1 align="center">S H I E L D H E R O B U G S<br></h1>
 <p align="center">
 <img src="https://th.bing.com/th/id/OIP.WzoDCICKCgh0i4CstySWZAAAAA?w=330&h=181&c=7&r=0&o=5&pid=1.7" height="500" , width="800"/>
 </p>
@@ -123,7 +123,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 ## AUTHORS
 
-<div align="center">
+<a align="center">
 | [BOTS-OFFICIAL](https://github.com/BOTS-OFFICIAL.png?lenght=50width=50)](https://github.com/BOTS-OFFICIAL)|
 |----|
 | [BOTS-OFFICIAL ](https://github.com/BOTS-OFFICIAL) |
