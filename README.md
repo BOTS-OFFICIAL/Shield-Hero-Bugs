@@ -131,14 +131,14 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 <div align="center">
  
-| [BOTS-OFFICIAL](https://github.com/BOTS-OFFICIAL.png?lenght=50width=50)](https://github.com/BOTS-OFFICIAL)|
+| [![BOTS-OFFICIAL](https://github.com/BOTS-OFFICIAL.png?lenght=50width=50)](https://github.com/BOTS-OFFICIAL)|
 |----|
 | [BOTS-OFFICIAL ](https://github.com/BOTS-OFFICIAL) |
 |  owner |
 
 <br>
 
-| [MAGICAL-KX](https://github.com/MAGICAL-KX.png?lenght=50width=50)](https://github.com/MAGICAL-KX)|
+| [![MAGICAL-KX](https://github.com/MAGICAL-KX.png?lenght=50width=50)](https://github.com/MAGICAL-KX)|
 |----|
 | [MAGICAL-KX ](https://github.com/MAGICAL-KX) |
 |  Fixing bugs and editing files |
