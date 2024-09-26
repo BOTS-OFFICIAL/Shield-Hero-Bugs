@@ -122,8 +122,8 @@ npm start
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 ## AUTHORS
+
 <div align="center">
-  
 | [BOTS-OFFICIAL](https://github.com/BOTS-OFFICIAL.png?lenght=50width=50)](https://github.com/BOTS-OFFICIAL)|
 |----|
 | [BOTS-OFFICIAL ](https://github.com/BOTS-OFFICIAL) |
@@ -135,6 +135,6 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 |----|
 | [MAGICAL-KX ](https://github.com/MAGICAL-KX) |
 |  Fixing bugs |
-<br>
+</p>
 
  ⧉ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⧉ 
