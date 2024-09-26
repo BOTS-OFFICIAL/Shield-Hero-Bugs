@@ -1,11 +1,17 @@
 <h1 align="centre" >Shield-Hero-Bugs<br><h1>
 <h1 align="centre", colour="red">AN EVIL WHATSAPP BUG BOT BY BOTS OFFICIAL<br><h1>
- 
+
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+ <div ="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=blue&center=true&width=900&height=100&lines=Its SHIELD-HERO;Whatsapp+Bug+Bot;Developed+By+BOTS-OFFICIAL" alt="Typing SVG" /></a>
+  
 
 <h1 align="center">S H I E L D H E R O B U G S<br></h1>
 <p align="center">
 <img src="https://th.bing.com/th/id/OIP.WzoDCICKCgh0i4CstySWZAAAAA?w=330&h=181&c=7&r=0&o=5&pid=1.7" height="500" , width="800"/>
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
 S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/BOTS-OFFICIAL" target="_blank">BOTS-OFFICIAL</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
@@ -123,7 +129,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 ## AUTHORS
 
-<a align="center">
+<div align="center">
+ 
 | [BOTS-OFFICIAL](https://github.com/BOTS-OFFICIAL.png?lenght=50width=50)](https://github.com/BOTS-OFFICIAL)|
 |----|
 | [BOTS-OFFICIAL ](https://github.com/BOTS-OFFICIAL) |
@@ -134,7 +141,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 | [MAGICAL-KX](https://github.com/MAGICAL-KX.png?lenght=50width=50)](https://github.com/MAGICAL-KX)|
 |----|
 | [MAGICAL-KX ](https://github.com/MAGICAL-KX) |
-|  Fixing bugs |
-</p>
+|  Fixing bugs and editing files |
+
+</div>
 
  ⧉ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⧉ 
