@@ -46,12 +46,17 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-## ```Bot Support Group Chats```
+## ```PLATFORMSS```
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-- [`Group Chat`](https://chat.whatsapp.com/KhFlAaa7LaG5st8gqJol3Q)
-- [`Channel`](https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V)
-- 
+   - [![Github Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BOTS-OFFICIAL) ***(profile)***
+   - [![Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bug) ***(repository)***
+   - [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BSFZGh0YT3K9NHDt4UJmZy) ***(group)***
+   - [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V) ***(channel)***
+   - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Kentonx-tech)
+   - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Kentonx64)
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
@@ -157,6 +162,29 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 </div>
+
+##
+
+### `Repository Details:`
+
+<details>
+  <summary>Click here to view</summary>
+
+<div align="center">
+    
+| Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
+|----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
+| [![Owner](https://img.shields.io/badge/Author-BOTOFFICIAL-red.svg)](https://github.com/BOTS-OFFICIAL/) | [![Repository](https://img.shields.io/badge/Repo-Shield Hero Bugs-red.svg)](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs) | [![GitHub forks](https://badgen.net/github/forks/BOTS-OFFICIAL/Shield-Hero-Bugs/)](https://GitHub.com/BOTS-OFFICIL/Shield-Hero-Bugs/network/) | [![GitHub stars](https://badgen.net/github/stars/BOTS-OFFICIAL/Anya_v2-MD)](https://GitHub.com/BOT-OFFICIAL/Anya_v2-MD/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/BOTS-OFFICIAL/Shield-Hero-Bugs.svg)](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs/blob/master/LICENSE) 
+
+| Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
+|---------------------|---------------------|---------------------|
+| [![GitHub release](https://img.shields.io/github/release/BOTS-OFFICIAL/Shield-Hero-Bugs.svg)](https://GitHub.com/BOTS-OFFICIAL/Shield-Hero-Bugs/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/BOTS-OFFICIAL/Shield-Hero-Bugs)](https://GitHub.com/BOTS-OFFICIAL/Shield-Hero-Bugs/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/BOTS-OFFICIAL/Shield-Hero-Bugs/graphs/commit-activity) |
+
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=BOTS-OFFICIAL/Anya_v2-MD)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=BOTS-OFFICIAL/Shield-Hero-Bugs)
+
+</div>
+</details>
+
 
  ⧉ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⧉ 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
