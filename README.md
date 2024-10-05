@@ -40,13 +40,11 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## ```Connect With Me```
-<p align="center">
 
-<a href="https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V"><img src="https://img.shields.io/badge/WhatsApp Channel ?style=for-the-badge&logo=whatsapp&logoColor=green&link=https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V" /><br>
-</p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
+ - [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=red)](https://wa.me/263789432940) ***(CONTACT OWNER)***
+ - 
 ## ```PLATFORMSS```
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
    - [![Github Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BOTS-OFFICIAL) ***(profile)***
