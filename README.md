@@ -64,11 +64,11 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ***(FORK REPO)***
-***[![Fork REPO](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=FORK&logoColor=white)](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs)***
+***[![Fork REPO](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=FORK&logoColor=white)](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs/Fork)***
 
 ## `Generate Pair Code For Session`
 
-***([`GET CREDS FILE FOR BOT`](https://bots-official-creds.onrender.com))***
+[![Github Profile](https://img.shields.io/badge/Render-100000?style=for-the-badge&logo=render&logoColor=white)]((https://bots-official-creds.onrender.com) ***(Session ID)***
 
 ***([`SUBSCRIBE YT`](https://youtube.com/@KentonX-Tech))***
 
