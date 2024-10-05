@@ -1,5 +1,4 @@
-<h1 align="centre" >Shield-Hero-Bugs<br><h1>
-<h1 align="centre", colour="red">AN EVIL WHATSAPP BUG BOT BY BOTS OFFICIAL<br><h1>
+##S H I E L D   H E R O AN EVIL WHATSAPP BUG BOT BY BOTS OFFICIAL<br><h1>
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -22,6 +21,7 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
 ------
 
 # ```Bot Info```
+
 <p align="center">
 <a href="https://github.com/BOTA-OFFICIAL/followers"><img title="Followers" src="https://img.shields.io/github/followers/bots-official?color=red&style=flat-square"></a>
 <a href="https://github.com/BOTS-OFFICIAL/Shield-Hero-Buggs/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/bots-official/shield-hero-bugs?color=blue&style=flat-square"></a>
@@ -82,7 +82,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Start the Worker
 * Enjoy the Bot.
 
-#### DEPLOY TO RENDER
+## DEPLOY TO RENDER
 
  ★ Register To Render 
     <br>
