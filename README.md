@@ -38,6 +38,7 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
 
 -------
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 ## ```Connect With Me```
 <p align="center">
 
@@ -47,13 +48,16 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
 
 ## ```Bot Support Group Chats```
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 - [`Group Chat`](https://chat.whatsapp.com/KhFlAaa7LaG5st8gqJol3Q)
 - [`Channel`](https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V)
+- 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
 # Setup For Deployment 👇
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 - FORK THE REPOSITORY [`Here`](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs/fork)
 
 ## `Generate Pair Code For Session`
