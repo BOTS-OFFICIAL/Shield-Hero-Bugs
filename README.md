@@ -1,5 +1,5 @@
-###### S H I E L D   H E R O 
-###### AN EVIL WHATSAPP BUG BOT BY BOTS OFFICIAL<br><h1>
+#### *S H I E L D   H E R O* 
+#### *AN EVIL WHATSAPP BUG BOT BY BOTS OFFICIAL<br><h1>*
 
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -135,17 +135,22 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ## AUTHORS
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
  | [![BOTS-OFFICIAL](https://github.com/BOTS-OFFICIAL.png?lenght=50width=50)](https://github.com/BOTS-OFFICIAL)|
 |----|
 | [BOTS-OFFICIAL ](https://github.com/BOTS-OFFICIAL) |
 |  owner |
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 <br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 | [![MAGICAL-KX](https://github.com/MAGICAL-KX.png?lenght=50width=50)](https://github.com/MAGICAL-KX)|
 |----|
 | [MAGICAL-KX ](https://github.com/MAGICAL-KX) |
 |  Fixing bugs and editing files |
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 </div>
 
