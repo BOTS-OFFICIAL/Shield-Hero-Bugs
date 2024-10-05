@@ -174,13 +174,13 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
     
 | Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
 |----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
-| [![Owner](https://img.shields.io/badge/Author-BOTOFFICIAL-red.svg)](https://github.com/BOTS-OFFICIAL/) | [![Repository](https://img.shields.io/badge/Repo-ShieldHeroBugs-red.svg)](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs) | [![GitHub forks](https://badgen.net/github/forks/BOTS-OFFICIAL/Shield-Hero-Bugs/)](https://GitHub.com/BOTS-OFFICIL/Shield-Hero-Bugs/network/) | [![GitHub stars](https://badgen.net/github/stars/BOTS-OFFICIAL/Anya_v2-MD)](https://GitHub.com/BOT-OFFICIAL/Anya_v2-MD/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/BOTS-OFFICIAL/Shield-Hero-Bugs.svg)](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs/blob/master/LICENSE) 
+| [![Owner](https://img.shields.io/badge/Author-BOTOFFICIAL-red.svg)](https://github.com/BOTS-OFFICIAL/) | [![Repository](https://img.shields.io/badge/Repo-ShieldHeroBugs-red.svg)](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs) | [![GitHub forks](https://badgen.net/github/forks/BOTS-OFFICIAL/Shield-Hero-Bugs/)](https://GitHub.com/BOTS-OFFICIL/Shield-Hero-Bugs/network/) | [![GitHub stars](https://badgen.net/github/stars/BOTS-OFFICIAL/Shield-Hero-Bugs)](https://GitHub.com/BOT-OFFICIAL/Shield-Hero-Bugs/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/BOTS-OFFICIAL/Shield-Hero-Bugs.svg)](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs/blob/master/LICENSE) 
 
 | Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
 |---------------------|---------------------|---------------------|
 | [![GitHub release](https://img.shields.io/github/release/BOTS-OFFICIAL/Shield-Hero-Bugs.svg)](https://GitHub.com/BOTS-OFFICIAL/Shield-Hero-Bugs/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/BOTS-OFFICIAL/Shield-Hero-Bugs)](https://GitHub.com/BOTS-OFFICIAL/Shield-Hero-Bugs/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/BOTS-OFFICIAL/Shield-Hero-Bugs/graphs/commit-activity) |
 
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=BOTS-OFFICIAL/Anya_v2-MD)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=BOTS-OFFICIAL/Shield-Hero-Bugs)
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=BOTS-OFFICIAL/Shield-Hero-Bugs)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=BOTS-OFFICIAL/Shield-Hero-Bugs)
 
 </div>
 </details>
