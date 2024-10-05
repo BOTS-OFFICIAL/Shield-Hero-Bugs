@@ -63,19 +63,19 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
 # Setup For Deployment 👇
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-- FORK THE REPOSITORY [`Here`](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs/fork)
+ - ***([`Tap Here To Fork`](https://github.com/PikaBotz/Anya_v2-MD/fork))***
 
 ## `Generate Pair Code For Session`
 
-[`Hero Pairing Using Render`](https://bots-official-creds.onrender.com)
+***([`GET CREDS FILE FOR BOT`](https://bots-official-creds.onrender.com))***
 
-[`Shield Pairing using Replit`](https://replit.com)
+***([`SUBSCRIBE YT`](https://youtube.com/@KentonX-Tech))***
 
-[`HOW TO DEPLOY ON HEROKU VIDEO TUTORIAL`](https://youtu.be/b5gpcwPvtgk?si=Ybg9m7gyDjh9gEwn)
+***([`HOW TO DEPLOY ON HEROKU VIDEO TUTORIAL`](https://youtu.be/b5gpcwPvtgk?si=Ybg9m7gyDjh9gEwn))***
 
-[`HOW TO AUTO DEPLOY DIRECT ON GITHUB`](https://youtu.be/-aOIDVebImo?si=TTl9GayCy3VD5z85)
+***([`HOW TO AUTO DEPLOY DIRECT ON GITHUB`](https://youtu.be/-aOIDVebImo?si=TTl9GayCy3VD5z85))***
 
-[`HOW TO RESTART WHEN THE BOT GOES OFF`](https://youtube.com/shorts/o0uLn17pRRs?si=i4VVlhSZLoFdk94u)
+***([`HOW TO RESTART WHEN THE BOT GOES OFF`](https://youtube.com/shorts/o0uLn17pRRs?si=i4VVlhSZLoFdk94u))***
 
 # Installments
 ## Heroku Buildpack
