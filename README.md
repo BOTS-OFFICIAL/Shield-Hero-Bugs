@@ -1,4 +1,5 @@
-#### S H I E L D   H E R O AN EVIL WHATSAPP BUG BOT BY BOTS OFFICIAL<br><h1>
+###### S H I E L D   H E R O 
+###### AN EVIL WHATSAPP BUG BOT BY BOTS OFFICIAL<br><h1>
 
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -36,22 +37,23 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
     </p>
 
 -------
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ## ```Connect With Me```
 <p align="center">
 
 <a href="https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V"><img src="https://img.shields.io/badge/WhatsApp Channel ?style=for-the-badge&logo=whatsapp&logoColor=green&link=https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V" /><br>
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## ```Bot Support Group Chats```
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 - [`Group Chat`](https://chat.whatsapp.com/KhFlAaa7LaG5st8gqJol3Q)
 - [`Channel`](https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V)
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
 # Setup For Deployment 👇
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 - FORK THE REPOSITORY [`Here`](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs/fork)
 
 ## `Generate Pair Code For Session`
@@ -127,11 +129,12 @@ npm start
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <div align="center">
 ## AUTHORS
-
+ 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  | [![BOTS-OFFICIAL](https://github.com/BOTS-OFFICIAL.png?lenght=50width=50)](https://github.com/BOTS-OFFICIAL)|
 |----|
 | [BOTS-OFFICIAL ](https://github.com/BOTS-OFFICIAL) |
@@ -143,7 +146,13 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 |----|
 | [MAGICAL-KX ](https://github.com/MAGICAL-KX) |
 |  Fixing bugs and editing files |
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 </div>
 
  ⧉ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⧉ 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
